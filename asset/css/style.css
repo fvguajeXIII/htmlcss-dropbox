@@ -3,3 +3,68 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #000;
+  background: #fff;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header{
+  background: #fff;
+  border-bottom: 1px solid transparent;
+  padding: 15px;
+}
+
+.header-flex{
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.logo {
+  height: 32px;
+  margin-right: 24px;
+}
+
+.nav {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.nav a {
+  margin: 0 16px 0 0;
+  color: #222;
+  text-decoration: none;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-left: auto;
+}
+
+.header-link {
+  color: #222;
+  text-decoration: none;
+  margin-right: 8px;
+  font-size: 14px;
+}
+
+.header-btn {
+  background: #0061ff;
+  color: #fff;
+  padding: 8px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+}
