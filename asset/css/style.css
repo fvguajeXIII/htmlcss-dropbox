@@ -242,3 +242,23 @@ div.offert .col1>.top-col {
   border-bottom: 1px solid #d0d0d3;
 }
 
+div.offert.flex-n {
+  flex-wrap: wrap;
+}
+
+.offert>div.bottom-col {
+  height: 100%;
+}
+
+.offert.flex-n .col1.text:last-child {
+  flex-grow: 2;
+}
+
+.offert .col1:last-child .bottom-col .col-small {
+  text-align: end;
+}
+
+.offert .col1:last-child .bottom-col .col-big {
+  padding-right: 50px;
+}
+
