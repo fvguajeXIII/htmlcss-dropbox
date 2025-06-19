@@ -291,3 +291,32 @@ div.offert.flex-n {
   padding-right: 50px;
 }
 
+/* Partner */
+
+#partner .col-big{
+  width: 600px;
+}
+
+#partner .col-small{
+  flex-grow: 2;
+}
+
+#partner .col-small > p{
+  padding-top: 20px;
+}
+
+#partner div.secondarymain-container {
+  padding: 145px 0 150px;
+}
+
+#partner .secondarymain-container .col-small a.btn.btn-secondary {
+  background-color: #fff;
+  border: 1px solid #000;
+  color: #000;
+  margin-top: 35px;
+}
+
+#partner .secondarymain-container .flex-n .col-small {
+  padding: 60px 50px 0;
+}
+
