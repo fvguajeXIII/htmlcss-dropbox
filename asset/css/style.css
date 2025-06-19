@@ -339,3 +339,13 @@ div.offert.flex-n {
   margin: 20px 0 30px;
 }
 
+/* Sezione Clients */
+
+#clients .secondarymain-container {
+  padding: 160px 0 130px;
+}
+
+#clients .secondarymain-container .col-big>h2 {
+  margin-bottom: 75px;
+}
+
