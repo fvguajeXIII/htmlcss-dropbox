@@ -30,7 +30,7 @@ body{
 
 .logo {
   height: 32px;
-  margin-right: 24px;
+  margin-right: 24px; /* opzionale, per separare logo e nav */
 }
 
 .nav {
@@ -40,7 +40,7 @@ body{
 }
 
 .nav a {
-  margin: 0 16px 0 0;
+  margin: 0 16px 0 0; /* solo margine a destra */
   color: #222;
   text-decoration: none;
 }
@@ -49,7 +49,7 @@ body{
   display: flex;
   align-items: center;
   gap: 16px;
-  margin-left: auto;
+  margin-left: auto; /* spinge header-actions a destra */
 }
 
 .header-link {
