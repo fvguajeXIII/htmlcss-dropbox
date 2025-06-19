@@ -214,3 +214,31 @@ div.info-plane {
   align-items: flex-start;
 }
 
+.bottom-col>a.btn {
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  padding: 15px 0;
+}
+
+li.flex-n>span {
+  padding-left: 7px;
+}
+
+.bottom-col>hr {
+  margin-bottom: 40px;
+  width: 20%;
+}
+
+.btn-shop{
+  color: #0061ff;
+}
+
+div.offert>.col1 {
+  border: 1px solid #d0d0d3;
+}
+
+div.offert .col1>.top-col {
+  border-bottom: 1px solid #d0d0d3;
+}
+
