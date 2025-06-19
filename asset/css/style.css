@@ -187,3 +187,30 @@ div.secondarymain-container .bottom-col h3 {
   margin-top: 15px;
 }
 
+ul.details-icon{
+  padding-top: 30px;
+}
+
+div.secondarymain-container .bottom-col ul li{
+  padding-top: 20px;
+}
+
+section #plans .secondarymain-container .bottom-col .text{
+  margin: 20px 0 40px;
+}
+
+div.secondarymain-container .bottom-col span.text-icon {
+  line-height: 100%;
+  vertical-align: middle;
+  width: 100%;
+}
+
+div.info-plane {
+  height: 320px;
+}
+
+.details-fleg li.flex-n > i{
+  color: #0061ff;
+  align-items: flex-start;
+}
+
